@@ -1,7 +1,4 @@
 ## Hi there 👋
-
-I'm currently learning Qt programming language with c++, i'm working on random projects to make experience with GUI programming.
-
 <!--
 **karotidis/karotidis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
